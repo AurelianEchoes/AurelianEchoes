@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Jude Thomas here:
 
+### I am a MORSE graduate from The University of Warwick. 
 <!--
 **AurelianEchoes/AurelianEchoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
