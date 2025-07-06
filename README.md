@@ -1,4 +1,4 @@
-## Hi there 👋 Jude Thomas here:
+## Hi there 👋 Jude here:
 
 ### I am a MORSE graduate from The University of Warwick. 
 <!--
